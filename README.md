@@ -3,7 +3,7 @@
 
 
 
-## 💡 lession 1 
+### 💡 lession 1 
  📍global  : setInterval & setTimeout
 
  📍modules : require , exports , os
