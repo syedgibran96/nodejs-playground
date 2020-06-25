@@ -3,7 +3,7 @@
 
 
 
-### 💡 lession 1 
+### 💡 lesson 1 
  📍global  : setInterval & setTimeout
 
  📍modules : require , exports , os
@@ -13,5 +13,7 @@
  📍exists  : mkdir , rmdir , unlink with  existing and non existing file handeling 
 
  📍streams : readStream , writeStream , on , write , pipe
-# nodejs-playground
- 
+
+### 💡 lesson 2
+
+📍 http : server & file reading
